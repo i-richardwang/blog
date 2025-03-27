@@ -45,8 +45,32 @@ async function loadGoogleFonts(
       name: "Inter",
       font: "Inter",
       weight: 700,
-      style: "bold",
+      style: "normal",
     },
+    {
+      name: "Noto Sans SC",
+      font: "Noto+Sans+SC",
+      weight: 400,
+      style: "normal",
+    },
+    {
+      name: "Noto Sans SC",
+      font: "Noto+Sans+SC",
+      weight: 700,
+      style: "normal",
+    },
+    // { 
+    //   name: "Noto Sans", 
+    //   font: "Noto+Sans", 
+    //   weight: 400, 
+    //   style: "normal" 
+    // },
+    // {
+    //   name: "Noto Sans",
+    //   font: "Noto+Sans:wght",
+    //   weight: 700,
+    //   style: "normal",
+    // }
   ];
 
   const fonts = await Promise.all(
