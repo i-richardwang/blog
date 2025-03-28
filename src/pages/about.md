@@ -1,36 +1,30 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "关于我"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Hi，I'm Richard
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+一个对AI、数据和算法有着浓厚兴趣的技术爱好者。目前专注于AI大模型应用、算法优化和数据分析等领域的研究与实践。
 
 <div>
   <img src="/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## 博客内容
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+在这个博客里，我会分享：
 
-## Features
+- AI大模型的最新动态和应用实践
+- 有趣的算法问题与解决思路
+- 数据分析与可视化的技巧与案例
+- 偶尔的技术随想和日常碎碎念
 
-Here are certain features of this site.
+## 联系我
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+如果你对我的文章有任何想法或建议，欢迎通过以下方式联系我：
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- GitHub: [i-richardwang](https://github.com/i-richardwang)
+- 邮箱: [contact@richardwang.me](mailto:contact@richardwang.me)
+
+感谢访问我的博客！
