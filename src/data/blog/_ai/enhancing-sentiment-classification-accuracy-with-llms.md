@@ -6,9 +6,7 @@ slug: enhancing-sentiment-classification-accuracy-with-llms
 featured: false
 draft: false
 tags:
-  - LLM
-  - NLP
-  - Python
+  - AI
   - LangChain
 description: 通过实际案例探讨大模型在文本情感分类任务中相比传统NLP方法的优势。
 ---
